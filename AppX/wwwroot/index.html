@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>Dorisoy.PDT</title>
+    <base href="/" />
+    <link href="css/loader.css" rel="stylesheet" />
+    <link href="css/app.css" rel="stylesheet" />
+    <link href="_content/MudBlazor/MudBlazor.min.css?v=1.0" rel="stylesheet" />
+    <link href="css/Dorisoy.PDT.MAUI.css?v=1.0" rel="stylesheet" />
+    <style>
+        body {
+            background-size: cover;
+            background-color: #f9f9f9;
+            color: lightgray;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="app">
+        <style>
+            @keyframes slide {
+                0% {
+                    transform: translateX(-25%);
+                }
+
+                100% {
+                    transform: translateX(25%);
+                }
+            }
+
+            .mud-wasm {
+                animation: slide 3s ease-in-out infinite alternate;
+                /*background-image: linear-gradient(0deg, #0083FF 0.11%, #1040C1 127.33%);*/
+                background-image: linear-gradient(-60deg, rgba(0,82,204,1) 50%, rgba(38,132,255,1) 50%);
+                bottom: 0;
+                left: -50%;
+                opacity: .5;
+                position: fixed;
+                right: -50%;
+                top: 0;
+                z-index: -1
+            }
+
+            .mud-wasm-cont {
+                left: 50%;
+                padding: 10vmin;
+                position: fixed;
+                text-align: center;
+                top: 50%;
+                transform: translate(-50%,-50%)
+            }
+
+            .logoface {
+                font-size: 50px;
+                font-weight: bold;
+                color: #fff;
+                text-shadow: 2px 2px 2px #1040C1;
+            }
+        </style>
+
+        <div style="height:100%;width:100%;margin:0;position:fixed;">
+            <div class="mud-wasm"></div>
+            <div class="mud-wasm" style="animation-direction:alternate-reverse;animation-duration:4s;"></div>
+            <div class="mud-wasm" style="animation-duration:5s;"></div>
+            <div class="mud-wasm-cont ">
+                <div class="logoface">DORISOY</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/scroll.js"></script>
+    <script src="js/sounds.js"></script>
+    <script src="js/file.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/home.js"></script>
+
+    <script src="_framework/blazor.webview.js" autostart="false"></script>
+    <!--<script src="_framework/blazor.webassembly.js"></script>-->
+    <script src="_content/MudBlazor/MudBlazor.min.js"></script>
+    <script src="js/appUpdate.js"></script>
+    <script src="ServiceWorkerRegister.js"></script>
+
+</body>
+</html>

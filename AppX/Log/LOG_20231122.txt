@@ -1,0 +1,196 @@
+﻿2023/11/22 09:32:27-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:27-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:27-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:27-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:27-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:28-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:28-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:28-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:31-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:42-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:32:42-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:34:22-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:22-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:22-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:22-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:25-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:25-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:25-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:25-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:34:25-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Runtime.Serialization.XmlObjectSerializerReadContext.InternalDeserialize(XmlReaderDelegator reader, String name, String ns, Type declaredType, DataContract& dataContract)
+
+﻿2023/11/22 09:35:23-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:35:23-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:35:23-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:35:23-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:35:24-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:35:24-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:44:03-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:44:03-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:44:03-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:44:03-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:44:04-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:44:04-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:46:38-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:46:38-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:46:38-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:46:38-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:46:39-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:46:39-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 09:47:15-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:15-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:15-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:15-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:16-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:16-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:16-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:16-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 09:47:16-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Runtime.Serialization.XmlObjectSerializerReadContext.InternalDeserialize(XmlReaderDelegator reader, String name, String ns, Type declaredType, DataContract& dataContract)
+
+﻿2023/11/22 10:22:52-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:22:52-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:22:52-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:22:52-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:22:54-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:22:54-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:23:40-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:40-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:40-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:40-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:41-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:41-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:41-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:41-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Xml.XmlConvert.VerifyNCName(String name, ExceptionType exceptionType)
+
+﻿2023/11/22 10:23:41-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Runtime.Serialization.XmlObjectSerializerReadContext.InternalDeserialize(XmlReaderDelegator reader, String name, String ns, Type declaredType, DataContract& dataContract)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:19-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:39-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:42-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:42-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:24:51-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:25:22-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:25:24-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:25:25-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:26:47-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:26:47-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:29:10-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Runtime.Serialization.XmlObjectSerializerReadContext.InternalDeserialize(XmlReaderDelegator reader, String name, String ns, Type declaredType, DataContract& dataContract)
+
+﻿2023/11/22 10:30:48-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:30:48-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:35-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:35-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:35-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:35-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:37-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:37-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:32:37-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:34:23-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:34:23-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:28-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:32-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:32-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:37-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:51-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:54-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
+﻿2023/11/22 10:35:54-->抱歉，应用程序遇到一些问题，该操作已经终止.   at System.Resources.ManifestBasedResourceGroveler.HandleResourceStreamMissing(String fileName)
+
